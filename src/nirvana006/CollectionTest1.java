@@ -7,5 +7,9 @@ public class CollectionTest1 {
 		c.add(new Integer(100));
 		c.add(new Double(3.14));
 		System.out.println(c);
+		Iterator i = c.iterator();
+		while(i.hasNext()){
+			i.next();
+		}
 	}
 }
