@@ -13,5 +13,6 @@ public class ListTest {
 		System.out.println(l);
 		Collections.sort(l);
 		System.out.println(l);
+		System.out.println(Collections.binarySearch(l, "a7"));
 	}
 }
