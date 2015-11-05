@@ -8,12 +8,13 @@ public class Snake {
 	private Node tail = null;
 	private int size = 0;
 	private Node n = new Node(20,30,Dir.L);
-	
+	private Yard y;
 	//初始化一条蛇
-	public Snake(){
+	public Snake(Yard y){
 		head = n;
 		tail = n;
 		size = 1;		
+		this.y = y;
 	}	
 	
 	public void addToTail(){
@@ -54,17 +55,31 @@ public class Snake {
 	}
 	//画整条蛇的draw方法
 	public void draw(Graphics g){
-
+		move();
 		if(size<=0) return;
 		for(Node n=head;n!=null;n=n.next){
 			n.draw(g);
 		}
-		move();
+
 	}
 	
 	private void move() {
 		addToHead();
-		deleteFromeTail();		
+		deleteFromeTail();	
+		checkDead();
+	}
+
+	private void checkDead() {
+		if(head.row<0||head.row>Yard.ROWS||head.col<0||head.col>Yard.COLS){
+			y.stop();
+			System.out.println("Game Over!");
+		}
+		for(Node n=head.next;n!=null;n=n.next){
+			if(head.row==n.row&&head.col==n.col){
+				y.stop();
+				System.out.println("Game Over!");
+			}
+		}
 	}
 
 	private void deleteFromeTail() {
@@ -72,21 +87,37 @@ public class Snake {
 		tail = tail.prev;
 		tail.next = null;
 	}
+	
+	public void eat(Egg e){
+		if(this.getRect().intersects(e.getRect())){
+			e.reAppear();
+			this.addToHead();
+			y.score+=5;
+		}
+	}
+	
+	public Rectangle getRect(){
+		return new Rectangle(Yard.BLOCK_SIZE*head.col, Yard.BLOCK_SIZE*head.row, head.w, head.h);
+	}
 
 	public void keyPressed(KeyEvent e) {
 		int key = e.getKeyCode();
 		switch(key){
 			case KeyEvent.VK_LEFT:
-				head.dir = Dir.L;
+				if(head.dir!=Dir.R)
+					head.dir = Dir.L;
 				break;
 			case KeyEvent.VK_RIGHT:
-				head.dir = Dir.R;
+				if(head.dir!=Dir.L)
+					head.dir = Dir.R;
 				break;
 			case KeyEvent.VK_UP:
-				head.dir = Dir.U;
+				if(head.dir!=Dir.D)
+					head.dir = Dir.U;
 				break;
 			case KeyEvent.VK_DOWN:
-				head.dir = Dir.D;
+				if(head.dir!=Dir.U)
+					head.dir = Dir.D;
 				break;
 		}
 	}

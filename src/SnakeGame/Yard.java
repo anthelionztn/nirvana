@@ -1,6 +1,7 @@
 package SnakeGame;
 
 import java.awt.Color;
+import java.awt.Font;
 import java.awt.Frame;
 import java.awt.Graphics;
 import java.awt.Image;
@@ -11,7 +12,10 @@ public class Yard extends Frame {
 	public static final int ROWS = 50;
 	public static final int COLS = 50;
 	public static final int BLOCK_SIZE = 10;
-	Snake s = new Snake();
+	public static int score = 0;
+	private boolean flag = true;
+	Snake s = new Snake(this);
+	Egg e = new Egg();
 	
 	Image offScreenImage = null;//Ë«»º³å
 	
@@ -32,6 +36,9 @@ public class Yard extends Frame {
 		new Thread(new PaintThread()).start();
 	}
 
+	public void stop(){
+		flag = false;
+	}
 	@Override
 	public void paint(Graphics g) {
 		Color c = g.getColor();
@@ -46,7 +53,15 @@ public class Yard extends Frame {
 		for(int j=1;j<ROWS;j++){
 			g.drawLine(BLOCK_SIZE*j, 0, BLOCK_SIZE*j, ROWS*BLOCK_SIZE);
 		}
+		g.setColor(Color.ORANGE);
+		g.drawString("Score:"+score, 10, 60);
 		s.draw(g);
+		e.draw(g);
+		s.eat(e);
+		if(flag==false){
+			g.setFont(new Font("Verdana",Font.BOLD,20));
+			g.drawString("Game Over!", 10, 100);
+		}
 		g.setColor(c);
 	}
 	
@@ -62,7 +77,7 @@ public class Yard extends Frame {
 	
 	private class PaintThread implements Runnable{
 		public void run() {
-			while(true){
+			while(flag){
 				repaint();
 				try{
 					Thread.sleep(100);
