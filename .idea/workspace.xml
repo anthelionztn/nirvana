@@ -1,7 +1,110 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="442e3b2f-551b-4731-bc5c-29d5beb03a32" name="Default" comment="" />
+    <list default="true" id="ff8d4d17-0aa5-4372-a487-04cfe46ff674" name="Default" comment="">
+      <change type="DELETED" beforePath="D:\WorkSpace\nirvana\.idea\encodings.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/nirvana003/Add.class" afterPath="$PROJECT_DIR$/bin/nirvana003/Add.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/nirvana011/Al.class" afterPath="$PROJECT_DIR$/bin/nirvana011/Al.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/nirvana011/Al2.class" afterPath="$PROJECT_DIR$/bin/nirvana011/Al2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/nirvana004/Array2D.class" afterPath="$PROJECT_DIR$/bin/nirvana004/Array2D.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/nirvana004/BinarySearch.class" afterPath="$PROJECT_DIR$/bin/nirvana004/BinarySearch.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/nirvana010/Cake.class" afterPath="$PROJECT_DIR$/bin/nirvana010/Cake.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/nirvana011/CalFrame.class" afterPath="$PROJECT_DIR$/bin/nirvana011/CalFrame.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/nirvana011/CalFrame2$MyMonitor.class" afterPath="$PROJECT_DIR$/bin/nirvana011/CalFrame2$MyMonitor.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/nirvana011/CalFrame2.class" afterPath="$PROJECT_DIR$/bin/nirvana011/CalFrame2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/nirvana003/Cat.class" afterPath="$PROJECT_DIR$/bin/nirvana003/Cat.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/nirvana003/CatEquals.class" afterPath="$PROJECT_DIR$/bin/nirvana003/CatEquals.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/nirvana006/CollectionTest1.class" afterPath="$PROJECT_DIR$/bin/nirvana006/CollectionTest1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/nirvana007/ComparableTest.class" afterPath="$PROJECT_DIR$/bin/nirvana007/ComparableTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/nirvana004/Count3Minus1.class" afterPath="$PROJECT_DIR$/bin/nirvana004/Count3Minus1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/nirvana010/CustomProducerTest.class" afterPath="$PROJECT_DIR$/bin/nirvana010/CustomProducerTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/nirvana010/Customer.class" afterPath="$PROJECT_DIR$/bin/nirvana010/Customer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/nirvana004/Date.class" afterPath="$PROJECT_DIR$/bin/nirvana004/Date.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/nirvana005/DoubleArrayTransf.class" afterPath="$PROJECT_DIR$/bin/nirvana005/DoubleArrayTransf.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/nirvana003/Employee.class" afterPath="$PROJECT_DIR$/bin/nirvana003/Employee.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/nirvana006/EnhanceFor.class" afterPath="$PROJECT_DIR$/bin/nirvana006/EnhanceFor.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/nirvana005/EnumTest$Color.class" afterPath="$PROJECT_DIR$/bin/nirvana005/EnumTest$Color.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/nirvana005/EnumTest.class" afterPath="$PROJECT_DIR$/bin/nirvana005/EnumTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/nirvana004/Exception.class" afterPath="$PROJECT_DIR$/bin/nirvana004/Exception.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/nirvana003/Farmer.class" afterPath="$PROJECT_DIR$/bin/nirvana003/Farmer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/nirvana007/FileInputStreamTest.class" afterPath="$PROJECT_DIR$/bin/nirvana007/FileInputStreamTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/nirvana007/FileOutputStreamTest.class" afterPath="$PROJECT_DIR$/bin/nirvana007/FileOutputStreamTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/nirvana005/FileTest.class" afterPath="$PROJECT_DIR$/bin/nirvana005/FileTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/nirvana007/FileWRTest.class" afterPath="$PROJECT_DIR$/bin/nirvana007/FileWRTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/nirvana007/GenericTest.class" afterPath="$PROJECT_DIR$/bin/nirvana007/GenericTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/nirvana010/GuiTest.class" afterPath="$PROJECT_DIR$/bin/nirvana010/GuiTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/nirvana006/HashSetTest.class" afterPath="$PROJECT_DIR$/bin/nirvana006/HashSetTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/nirvana011/KeyEventTest.class" afterPath="$PROJECT_DIR$/bin/nirvana011/KeyEventTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/nirvana011/KeyFrame$MyKeyMonitor.class" afterPath="$PROJECT_DIR$/bin/nirvana011/KeyFrame$MyKeyMonitor.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/nirvana011/KeyFrame$WindowMonitor.class" afterPath="$PROJECT_DIR$/bin/nirvana011/KeyFrame$WindowMonitor.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/nirvana011/KeyFrame.class" afterPath="$PROJECT_DIR$/bin/nirvana011/KeyFrame.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/nirvana012/LinkedNodes.class" afterPath="$PROJECT_DIR$/bin/nirvana012/LinkedNodes.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/nirvana006/ListTest.class" afterPath="$PROJECT_DIR$/bin/nirvana006/ListTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/nirvana003/Manager.class" afterPath="$PROJECT_DIR$/bin/nirvana003/Manager.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/nirvana007/MapTest.class" afterPath="$PROJECT_DIR$/bin/nirvana007/MapTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/nirvana012/MyFrame$WindowMonitor.class" afterPath="$PROJECT_DIR$/bin/nirvana012/MyFrame$WindowMonitor.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/nirvana012/MyFrame.class" afterPath="$PROJECT_DIR$/bin/nirvana012/MyFrame.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/algorithm/NLights.class" afterPath="$PROJECT_DIR$/bin/algorithm/NLights.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/nirvana007/Name.class" afterPath="$PROJECT_DIR$/bin/nirvana007/Name.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/nirvana008/ObjectStreamTest.class" afterPath="$PROJECT_DIR$/bin/nirvana008/ObjectStreamTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/nirvana011/PaintFrame.class" afterPath="$PROJECT_DIR$/bin/nirvana011/PaintFrame.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/nirvana011/PaintTest.class" afterPath="$PROJECT_DIR$/bin/nirvana011/PaintTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/algorithm/PassLevel.class" afterPath="$PROJECT_DIR$/bin/algorithm/PassLevel.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/nirvana003/Persion.class" afterPath="$PROJECT_DIR$/bin/nirvana003/Persion.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/nirvana003/Person.class" afterPath="$PROJECT_DIR$/bin/nirvana003/Person.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/nirvana003/PetCare.class" afterPath="$PROJECT_DIR$/bin/nirvana003/PetCare.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/nirvana002/Point.class" afterPath="$PROJECT_DIR$/bin/nirvana002/Point.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/nirvana011/PointFrame$Monitor.class" afterPath="$PROJECT_DIR$/bin/nirvana011/PointFrame$Monitor.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/nirvana011/PointFrame$WindowMonitor.class" afterPath="$PROJECT_DIR$/bin/nirvana011/PointFrame$WindowMonitor.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/nirvana011/PointFrame.class" afterPath="$PROJECT_DIR$/bin/nirvana011/PointFrame.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/nirvana011/PointPaint.class" afterPath="$PROJECT_DIR$/bin/nirvana011/PointPaint.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/nirvana010/Producer.class" afterPath="$PROJECT_DIR$/bin/nirvana010/Producer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/algorithm/QuickSort.class" afterPath="$PROJECT_DIR$/bin/algorithm/QuickSort.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/algorithm/QuickSortArr.class" afterPath="$PROJECT_DIR$/bin/algorithm/QuickSortArr.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/nirvana013/RegExp.class" afterPath="$PROJECT_DIR$/bin/nirvana013/RegExp.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/nirvana009/Runner1.class" afterPath="$PROJECT_DIR$/bin/nirvana009/Runner1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/nirvana009/Runner2.class" afterPath="$PROJECT_DIR$/bin/nirvana009/Runner2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/nirvana009/Runner3.class" afterPath="$PROJECT_DIR$/bin/nirvana009/Runner3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/nirvana009/Runner4.class" afterPath="$PROJECT_DIR$/bin/nirvana009/Runner4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/nirvana004/SortBubble.class" afterPath="$PROJECT_DIR$/bin/nirvana004/SortBubble.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/nirvana004/SortSelection.class" afterPath="$PROJECT_DIR$/bin/nirvana004/SortSelection.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/nirvana004/SortTong.class" afterPath="$PROJECT_DIR$/bin/nirvana004/SortTong.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/nirvana005/StringTest.class" afterPath="$PROJECT_DIR$/bin/nirvana005/StringTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/nirvana005/StringTest2.class" afterPath="$PROJECT_DIR$/bin/nirvana005/StringTest2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/nirvana003_1/Student.class" afterPath="$PROJECT_DIR$/bin/nirvana003_1/Student.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/nirvana010/SyncStack.class" afterPath="$PROJECT_DIR$/bin/nirvana010/SyncStack.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/nirvana008/T.class" afterPath="$PROJECT_DIR$/bin/nirvana008/T.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/nirvana011/TFPassword.class" afterPath="$PROJECT_DIR$/bin/nirvana011/TFPassword.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/nirvana011/TFmath.class" afterPath="$PROJECT_DIR$/bin/nirvana011/TFmath.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/nirvana011/TFmathInter.class" afterPath="$PROJECT_DIR$/bin/nirvana011/TFmathInter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/nirvana011/TFrame2.class" afterPath="$PROJECT_DIR$/bin/nirvana011/TFrame2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/nirvana010/TcpClient.class" afterPath="$PROJECT_DIR$/bin/nirvana010/TcpClient.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/nirvana010/TcpServer.class" afterPath="$PROJECT_DIR$/bin/nirvana010/TcpServer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/nirvana003/Test.class" afterPath="$PROJECT_DIR$/bin/nirvana003/Test.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/nirvana004/Test.class" afterPath="$PROJECT_DIR$/bin/nirvana004/Test.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/nirvana004/Test2.class" afterPath="$PROJECT_DIR$/bin/nirvana004/Test2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/nirvana004/TestArray.class" afterPath="$PROJECT_DIR$/bin/nirvana004/TestArray.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/nirvana002/TestPoint.class" afterPath="$PROJECT_DIR$/bin/nirvana002/TestPoint.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/nirvana009/ThreadDeadLock.class" afterPath="$PROJECT_DIR$/bin/nirvana009/ThreadDeadLock.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/nirvana009/ThreadPriorityTest.class" afterPath="$PROJECT_DIR$/bin/nirvana009/ThreadPriorityTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/nirvana009/ThreadSync.class" afterPath="$PROJECT_DIR$/bin/nirvana009/ThreadSync.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/nirvana009/ThreadTest1.class" afterPath="$PROJECT_DIR$/bin/nirvana009/ThreadTest1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/nirvana009/ThreadTest2.class" afterPath="$PROJECT_DIR$/bin/nirvana009/ThreadTest2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/nirvana009/Timer.class" afterPath="$PROJECT_DIR$/bin/nirvana009/Timer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/nirvana008/TransFormTest1.class" afterPath="$PROJECT_DIR$/bin/nirvana008/TransFormTest1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/nirvana008/TransFormTest2.class" afterPath="$PROJECT_DIR$/bin/nirvana008/TransFormTest2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/nirvana003/Worker.class" afterPath="$PROJECT_DIR$/bin/nirvana003/Worker.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/nirvana003/exercise.class" afterPath="$PROJECT_DIR$/bin/nirvana003/exercise.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/nirvana002/fabonice.class" afterPath="$PROJECT_DIR$/bin/nirvana002/fabonice.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/nirvana001/helloworld.class" afterPath="$PROJECT_DIR$/bin/nirvana001/helloworld.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/nirvana001/oddsum.class" afterPath="$PROJECT_DIR$/bin/nirvana001/oddsum.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/nirvana001/outputfrom0to9.class" afterPath="$PROJECT_DIR$/bin/nirvana001/outputfrom0to9.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/nirvana001/test1.class" afterPath="$PROJECT_DIR$/bin/nirvana001/test1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/nirvana001/test2.class" afterPath="$PROJECT_DIR$/bin/nirvana001/test2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="nirvana.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/bin/" />
@@ -14,6 +117,10 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+    <option name="PARALLEL_COMPILATION" value="true" />
+  </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
@@ -23,36 +130,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="LinkedNodes.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/nirvana012/LinkedNodes.java">
+      <file leaf-file-name="ChatClient.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Chat/ChatClient.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.33333334">
-              <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+            <state vertical-scroll-proportion="0.85">
+              <caret line="21" column="11" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#561#562#0" expanded="true" />
+                <element signature="e#607#608#0" expanded="true" />
+                <element signature="e#667#668#0" expanded="true" />
+                <element signature="e#710#711#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="KeyEventTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/nirvana011/KeyEventTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-              <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -62,18 +159,13 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/nirvana004/Array2D.java" />
-        <option value="$PROJECT_DIR$/src/nirvana005/StringTest.java" />
-        <option value="$PROJECT_DIR$/src/nirvana012/LinkedNodes.java" />
+        <option value="$PROJECT_DIR$/src/Chat/ChatClient.java" />
       </list>
     </option>
   </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="mavenHome" value="Bundled (Maven 3)" />
-      </MavenGeneralSettings>
-    </option>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
   </component>
   <component name="NamedScopeManager">
     <order />
@@ -97,7 +189,7 @@
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
-      <showMembers />
+      <showMembers ProjectPane="true" />
       <showModules />
       <showLibraryContents />
       <hideEmptyPackages />
@@ -139,28 +231,6 @@
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nirvana012" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LinkedNodes.java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nirvana" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nirvana" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -176,7 +246,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="nirvana005" />
+              <option name="myItemId" value="Chat" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -187,106 +257,89 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="recentsLimit" value="5" />
     <property name="dynamic.classpath" value="false" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="true" />
     <property name="FullScreen" value="false" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$USER_HOME$/AppData/Local/GitHub/PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad/bin/git.exe" />
+    <property name="OverrideImplement.combined" value="true" />
+    <property name="OverrideImplement.overriding.sorted" value="false" />
   </component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\WorkSpace\nirvana\src" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Application.LinkedNodes">
-    <configuration default="false" name="exercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.ChatClient">
+    <configuration default="false" name="ChatClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="nirvana003.*" />
+          <option name="PATTERN" value="Chat.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="nirvana003.exercise" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="MAIN_CLASS_NAME" value="Chat.ChatClient" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="nirvana" />
       <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="StringTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="nirvana005.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="nirvana005.StringTest" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="nirvana" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="Array2D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="nirvana004.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="nirvana004.Array2D" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="nirvana" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="LinkedNodes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="nirvana012.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="nirvana012.LinkedNodes" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="nirvana" />
-      <envs />
-      <method />
+      <method>
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
       <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
       <method />
     </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
@@ -298,18 +351,20 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="" />
       <envs />
-      <method />
+      <method>
+        <option name="Make" enabled="false" />
+      </method>
     </configuration>
     <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -330,6 +385,55 @@
       <envs />
       <method />
     </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
     <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -344,6 +448,16 @@
         </option>
         <option name="vmOptions" />
       </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <module name="" />
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="depsClasspath" value="false" />
+      <setting name="passParentEnv" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <setting name="launchBrowser" value="false" />
       <method />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
@@ -372,12 +486,21 @@
       <envs />
       <method />
     </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
       <option name="SERVER_MODE" value="false" />
       <option name="SHMEM_ADDRESS" value="javadebug" />
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -408,61 +531,77 @@
       <listeners />
       <method />
     </configuration>
-    <list size="4">
-      <item index="0" class="java.lang.String" itemvalue="Application.exercise" />
-      <item index="1" class="java.lang.String" itemvalue="Application.StringTest" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Array2D" />
-      <item index="3" class="java.lang.String" itemvalue="Application.LinkedNodes" />
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Application.ChatClient" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Application.LinkedNodes" />
-        <item index="1" class="java.lang.String" itemvalue="Application.StringTest" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Array2D" />
-        <item index="3" class="java.lang.String" itemvalue="Application.exercise" />
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Application.ChatClient" />
       </list>
     </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="442e3b2f-551b-4731-bc5c-29d5beb03a32" name="Default" comment="" />
-      <created>1445741802655</created>
+      <changelist id="ff8d4d17-0aa5-4372-a487-04cfe46ff674" name="Default" comment="" />
+      <created>1446911739486</created>
       <option name="number" value="Default" />
-      <updated>1445741802655</updated>
-      <workItem from="1445741830287" duration="5845000" />
-      <workItem from="1446393046030" duration="1733000" />
+      <updated>1446911739486</updated>
+      <workItem from="1446911774132" duration="812000" />
+      <workItem from="1446912677696" duration="1508000" />
+      <workItem from="1446992846075" duration="2175000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7578000" />
+    <option name="totallyTimeSpent" value="4495000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32952693" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.27124184" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29402515" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25113463" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16251831" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -486,59 +625,123 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/nirvana005/StringTest.java">
+    <entry file="file://$PROJECT_DIR$/src/Chat/ChatClient.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/nirvana004/Array2D.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="28" column="32" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/nirvana003/exercise.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/nirvana004/Array2D.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="28" column="32" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/nirvana005/StringTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="15" column="42" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/nirvana011/KeyEventTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/nirvana012/LinkedNodes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33333334">
-          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#561#562#0" expanded="true" />
+            <element signature="e#607#608#0" expanded="true" />
+            <element signature="e#667#668#0" expanded="true" />
+            <element signature="e#710#711#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chat/ChatClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#561#562#0" expanded="true" />
+            <element signature="e#607#608#0" expanded="true" />
+            <element signature="e#667#668#0" expanded="true" />
+            <element signature="e#710#711#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/Chat.ChatClient">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>Chat.ChatClient</OriginalElement>
+          <nodes>
+            <node x="192.74999999999994" y="320.0">java.awt.Frame</node>
+            <node x="97.49999999999997" y="240.0">java.awt.Window</node>
+            <node x="261.0" y="0.0">java.awt.MenuContainer</node>
+            <node x="15.0625" y="160.0">javax.accessibility.Accessible</node>
+            <node x="127.0625" y="160.0">java.awt.Container</node>
+            <node x="181.74999999999991" y="400.0">Chat.ChatClient</node>
+            <node x="121.0625" y="80.0">java.awt.Component</node>
+            <node x="0.0" y="0.0">java.awt.image.ImageObserver</node>
+            <node x="143.0" y="0.0">java.io.Serializable</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="java.awt.Window" target="javax.accessibility.Accessible">
+              <point x="-19.75" y="-15.0" />
+              <point x="117.24999999999997" y="215.0" />
+              <point x="61.0625" y="215.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.awt.Window" target="java.awt.Container">
+              <point x="19.75" y="-15.0" />
+              <point x="156.74999999999997" y="215.0" />
+              <point x="171.0625" y="215.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.awt.Frame" target="java.awt.Window">
+              <point x="-16.99999999999997" y="-15.0" />
+              <point x="209.74999999999997" y="295.0" />
+              <point x="136.99999999999997" y="295.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.awt.Component" target="java.awt.MenuContainer">
+              <point x="33.33333333333334" y="-15.0" />
+              <point x="204.39583333333334" y="55.0" />
+              <point x="291.25" y="55.0" />
+              <point x="-30.25" y="15.0" />
+            </edge>
+            <edge source="Chat.ChatClient" target="java.awt.Frame">
+              <point x="2.8421709430404007E-14" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.awt.Frame" target="java.awt.MenuContainer">
+              <point x="17.00000000000003" y="-15.0" />
+              <point x="243.74999999999997" y="295.0" />
+              <point x="351.75" y="295.0" />
+              <point x="30.25" y="15.0" />
+            </edge>
+            <edge source="java.awt.Container" target="java.awt.Component">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.awt.Component" target="java.awt.image.ImageObserver">
+              <point x="-33.33333333333334" y="-15.0" />
+              <point x="137.72916666666666" y="55.0" />
+              <point x="61.5" y="55.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.awt.Component" target="java.io.Serializable">
+              <point x="0.0" y="-15.0" />
+              <point x="171.0625" y="55.0" />
+              <point x="192.0" y="55.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-81.0" y="165.0" />
+          <SelectedNodes>
+            <node>Chat.ChatClient</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chat/ChatClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.85">
+          <caret line="21" column="11" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#561#562#0" expanded="true" />
+            <element signature="e#607#608#0" expanded="true" />
+            <element signature="e#667#668#0" expanded="true" />
+            <element signature="e#710#711#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -549,6 +752,18 @@
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -571,7 +786,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>1.7</last-edited>
+          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -596,7 +811,7 @@
       </state>
       <state key="ProjectJDKs.UI">
         <settings>
-          <last-edited>1.7</last-edited>
+          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
